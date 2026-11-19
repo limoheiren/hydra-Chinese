@@ -1,2 +1,2 @@
 # hydra-Chinese
-hydramenu中文dll 
+hydramenu中文dll
